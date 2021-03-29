@@ -1,0 +1,16 @@
+/home/user/Desktop/Csharp/bin/Debug/net5.0/Csharp
+/home/user/Desktop/Csharp/bin/Debug/net5.0/Csharp.deps.json
+/home/user/Desktop/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.json
+/home/user/Desktop/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.dev.json
+/home/user/Desktop/Csharp/bin/Debug/net5.0/Csharp.dll
+/home/user/Desktop/Csharp/bin/Debug/net5.0/ref/Csharp.dll
+/home/user/Desktop/Csharp/bin/Debug/net5.0/Csharp.pdb
+/home/user/Desktop/Csharp/obj/Debug/net5.0/Csharp.csprojAssemblyReference.cache
+/home/user/Desktop/Csharp/obj/Debug/net5.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfoInputs.cache
+/home/user/Desktop/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfo.cs
+/home/user/Desktop/Csharp/obj/Debug/net5.0/Csharp.csproj.CoreCompileInputs.cache
+/home/user/Desktop/Csharp/obj/Debug/net5.0/Csharp.dll
+/home/user/Desktop/Csharp/obj/Debug/net5.0/ref/Csharp.dll
+/home/user/Desktop/Csharp/obj/Debug/net5.0/Csharp.pdb
+/home/user/Desktop/Csharp/obj/Debug/net5.0/Csharp.genruntimeconfig.cache
