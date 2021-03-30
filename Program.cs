@@ -6,7 +6,7 @@ namespace Csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi,  GitHub!");
+            Console.WriteLine("Hello,  GitHub!");
         }
     }
 }
